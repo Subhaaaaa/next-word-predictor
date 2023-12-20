@@ -16,6 +16,8 @@
      I am from maharastra and I         |                     speak
   I am from maharastra and I speak      |                    marathi
 
+  
+
     But since the model doesnot undertsand english words we will use integer encoding to convert them into vector .
     Ex input = [2 3 4] output = [5]
  
