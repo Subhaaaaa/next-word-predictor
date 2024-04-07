@@ -6,15 +6,7 @@
 
     Ex . I am from maharastra and I speak marathi.
 
-                X                       |                       y
- -----------------------------------------------------------------------------               
-                I                       |                       am
-              I am                      |                      from
-            I am from                   |                   maharastra
-        I am from maharasta             |                      and
-     I am from maharastra and           |                       I
-     I am from maharastra and I         |                     speak
-  I am from maharastra and I speak      |                    marathi
+![image](https://github.com/Subhaaaaa/next-word-predictor/assets/101266414/afa70de9-f730-4c61-a258-278266feaec6)
 
   
 
